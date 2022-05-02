@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">P2App</string>
+    <string name="search">Search</string>
+    <string name="shopping_list">Shopping List</string>
+    <string name="home">Home</string>
+    <string name="inventory">Inventory</string>
+    <string name="profile">Profile</string>
+    <string name="settings">Indstillinger</string>
+    <string name="dagens_retter">Dagens retter</string>
+    <string name="allergier">Allergier?</string>
+    <string name="ting_jeg_undg_r">Ting jeg undgår</string>
+    <string name="notifikationer">Notifikationer</string>
+    <string name="mad_preferencer">Mad prefærencer</string>
+    <string name="baseret_p_dine_rester">Baseret på dine rester</string>
+    <string name="baseret_p_dine_din_inventory">Baseret på dine din inventory</string>
+    <string name="tilf_j">TILFØJ</string>
+    <string name="tilf_j2">TILFØJ</string>
+</resources>
